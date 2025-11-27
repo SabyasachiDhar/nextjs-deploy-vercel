@@ -1,0 +1,32 @@
+{
+  "name": "nextjs-course",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.2",
+    "mongodb": "^7.0.0",
+    "next": "^13.4.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^5.0.3",
+    "react-syntax-highlighter": "^15.4.3"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabyasachiDhar/nextjs-deploy-vercel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SabyasachiDhar/nextjs-deploy-vercel/issues"
+  },
+  "homepage": "https://github.com/SabyasachiDhar/nextjs-deploy-vercel#readme",
+  "description": ""
+}
